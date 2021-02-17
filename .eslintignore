@@ -4,3 +4,5 @@ node_modules
 **/*.json
 README.md
 CHANGELOG.
+**/*.css
+**/*.scss
